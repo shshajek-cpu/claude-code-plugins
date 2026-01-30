@@ -1,0 +1,9 @@
+{
+  "name": "backend-database-plugin",
+  "description": "Supabase, PostgreSQL 등 백엔드 및 데이터베이스 베스트 프랙티스 모음",
+  "version": "1.0.0",
+  "author": {
+    "name": "Supabase"
+  },
+  "keywords": ["supabase", "postgres", "database", "backend", "sql"]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "document-office-plugin",
+  "description": "PDF, Word, PowerPoint, Excel 문서 작업을 위한 스킬 모음",
+  "version": "1.0.0",
+  "author": {
+    "name": "Anthropic"
+  },
+  "keywords": ["pdf", "docx", "pptx", "xlsx", "office", "documents"]
+}

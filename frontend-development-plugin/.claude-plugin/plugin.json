@@ -1,0 +1,9 @@
+{
+  "name": "frontend-development-plugin",
+  "description": "React, Next.js, React Native, Remotion 등 프론트엔드 개발을 위한 베스트 프랙티스 모음",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vercel Labs, Remotion"
+  },
+  "keywords": ["react", "nextjs", "react-native", "remotion", "frontend", "vercel"]
+}

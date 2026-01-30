@@ -1,0 +1,9 @@
+{
+  "name": "design-ux-plugin",
+  "description": "웹 디자인 가이드라인, UI/UX 베스트 프랙티스, 프론트엔드 디자인 패턴 모음",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vercel Labs, Anthropic, NextLevelBuilder"
+  },
+  "keywords": ["design", "ui", "ux", "web-design", "frontend-design", "guidelines"]
+}
