@@ -1,9 +1,0 @@
-{
-  "name": "productivity-tools-plugin",
-  "description": "스킬 검색, 스킬 생성, 브라우저 자동화 등 생산성 향상 도구 모음",
-  "version": "1.0.0",
-  "author": {
-    "name": "Vercel Labs, Anthropic"
-  },
-  "keywords": ["skills", "productivity", "browser", "automation", "tools"]
-}
